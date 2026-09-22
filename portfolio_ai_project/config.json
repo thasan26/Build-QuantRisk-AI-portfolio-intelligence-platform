@@ -1,0 +1,14 @@
+{
+  "tickers": ["SPY", "QQQ"],
+  "benchmark": "SPY",
+  "lookback_years": 5,
+  "initial_investment": 50000,
+  "risk_free_rate": 0.04,
+  "trading_days": 252,
+  "weight_step": 0.01,
+  "monte_carlo_paths": 10000,
+  "monte_carlo_days": 252,
+  "max_drawdown_limit": 0.30,
+  "cvar_limit": 0.03,
+  "random_seed": 42
+}

@@ -1,0 +1,9 @@
+Selected portfolio
+SPY: 92%
+QQQ: 8%
+Annualized return: 13.58%
+Annualized volatility: 17.59%
+Sharpe ratio: 0.545
+Max drawdown: -25.30%
+Daily 95% CVaR: -2.52%
+Monte Carlo median final value: $56,679
