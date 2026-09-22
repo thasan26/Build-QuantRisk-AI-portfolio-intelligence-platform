@@ -70,6 +70,4 @@ This is an educational decision-support project, not investment advice. Historic
 
 Python · pandas · NumPy · yfinance · Streamlit · Plotly · pytest · Tableau-ready CSV
 
-## Interview framing
 
-> I built a decision platform rather than a single dashboard. The pipeline ingests and validates market data, evaluates 101 portfolio allocations against explicit downside-risk controls, performs walk-forward validation, runs 10,000 correlated Monte Carlo simulations, stress-tests the selected portfolio, and exposes the results through an interactive application with an audit trail and model limitations.
